@@ -1,0 +1,12 @@
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\iSynergyEmailImport.exe.manifest
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\iSynergyEmailImport.application
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\iSynergyEmailImport.exe
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\iSynergyEmailImport.pdb
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\Email.NET.dll
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\bin\Debug\Email.NET.xml
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\iSynergyEmailImport.csproj.ResolveComReference.cache
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\iSynergyEmailImport.exe.manifest
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\iSynergyEmailImport.application
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\iSynergyEmailImport.exe
+C:\Users\jamyers\documents\visual studio 2010\Projects\iSynergyEmailImport\iSynergyEmailImport\obj\x86\Debug\iSynergyEmailImport.pdb
